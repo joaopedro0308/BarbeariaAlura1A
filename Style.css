@@ -19,3 +19,22 @@ P{
 #missao{
   font-size20px;
 }
+em strong{
+  color#FF0000;
+}
+.hens{
+  font-styles:italico;
+}
+.benefícios{
+  Background#FFFFFF
+  Paddins20px;
+}
+ul{
+  display:inline-block;
+  vertical-aligan:top;
+  width:20%
+  margin-rigth 15%
+}
+.imagebeneficios{
+  width:50%;
+}
